@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://github.com/overnight-dandelion/literate-fortnight/blob/7c1fd057bbcd30092ab7c8f6eb346f249cdc706e/recovery.img'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://github.com/overnight-dandelion/literate-fortnight/blob/7c1fd057bbcd30092ab7c8f6eb346f249cdc706e/recovery.img
 
 jobs:
   build:
